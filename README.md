@@ -12,6 +12,8 @@ I like to be in constant learning
 
 ![](https://github-readme-stats.vercel.app/api?username=Joeldev1021&show_icons=true)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joeldev1021&bg_color=121212&color=5094f9&line=5094f0&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Lenguages and Tools 
 
 
