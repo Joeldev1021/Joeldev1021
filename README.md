@@ -7,13 +7,6 @@ I like to be in constant learning
 - 🔭 I’m currently working on ConeXperto. 
 - 🌱 I’m currently learning Python 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Joel-Hendrix1021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joel-pimentel-b0a933201//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/joeldev10211)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://twitter.com/joeldev10211)  
-
-![](https://github-readme-stats.vercel.app/api?username=Joeldev1021&show_icons=true)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joeldev1021&bg_color=121212&color=5094f9&line=5094f0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Lenguages and Tools 
 
 
@@ -28,6 +21,20 @@ I like to be in constant learning
 <img align="left" alt="git"  width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
 <img align="left" alt="git"  width="30px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"/> 
 <img align="left" alt="git"  width="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"/> 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Joel-Hendrix1021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joel-pimentel-b0a933201//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/joeldev10211)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://twitter.com/joeldev10211) 
+
+# Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Joeldev1021&show_icons=true)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joeldev1021&bg_color=121212&color=5094f9&line=5094f0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joeldev1021&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Joeldev1021"/>
+
 
 
 <!--
