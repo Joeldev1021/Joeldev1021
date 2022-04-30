@@ -22,12 +22,10 @@ I like to be in constant learning
 <img align="left "alt="postman"  width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  />
 <img align="left" alt="git"  width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
 <img align="left" alt="git"  width="30px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"/> 
-<img align="left" alt="git"  width="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">-
-
+<img align="left" alt="git"  width="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
+</br>
   
-# stats 
-
-
+### Stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=Joeldev1021&show_icons=true)
 
