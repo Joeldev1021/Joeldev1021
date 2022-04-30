@@ -21,9 +21,9 @@ I like to be in constant learning
 <img align="left" alt="mongodb"  width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  />
 <img align="left "alt="postman"  width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  />
 <img align="left" alt="git"  width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-<img align="left" alt="git"  width="30px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"/> 
-<img align="left" alt="git"  width="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
-</br>
+<img align="left" alt="tailwind"  width="30px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"/> 
+<img align="left" alt="bootstrap"  width="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"/>
+
   
 ### Stats 
 
@@ -33,7 +33,7 @@ I like to be in constant learning
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joeldev1021&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Joeldev1021"/>
+<img aling="center" src="https://github-profile-trophy.vercel.app/?username=Joeldev1021"/>
 
 
 
