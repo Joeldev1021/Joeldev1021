@@ -3,6 +3,7 @@
 Hi, I’m Joel Pimentel a passionate self-taught Jr full-stack web developer  from Panama. 
 my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. 
 I like to be in constant learning.
+ 
  - 🔭 I’m currently working on ConeXperto. 
  - 🌱 I’m currently learning Python.
  
