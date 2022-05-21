@@ -10,22 +10,41 @@ I like to be in constant learning.
 </p>
 
 ## <p align="center">Social.</p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Joel-Hendrix1021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joel-pimentel-b0a933201//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/joeldev10211)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://twitter.com/joeldev10211) 
+<p align="center">
+ <a ref="https://github.com/Joel-Hendrix1021">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt='github' height='40' />
+ </a>
+ 
+ <a ref="https://twitter.com/https://twitter.com/joeldev10211">
+  <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'  />
+ </a>
+ 
+ <a ref="https://www.linkedin.com/in/https://www.linkedin.com/in/joel-pimentel-b0a933201">
+  <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='twitter' height='40'  />
+ </a>
+ 
 
 ## <p align="center">Lenguages and Tools. </p>
 
 <p align="center">
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3"  width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass"  width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React"  width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="mongodb"  width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  />
-<img align="left "alt="postman"  width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  />
-<img align="left" alt="git"  width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-<img align="left" alt="tailwind"  width="30px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"/> 
-<img align="left" alt="bootstrap"  width="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
+<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25px" height="25px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="25px" height="25px" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25px" height="25px" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25px" height="25px"/> 
+<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="25px" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="25px" height="25px"/>
+
+</p>
 
 </p>
 
