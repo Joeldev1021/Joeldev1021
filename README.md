@@ -1,4 +1,4 @@
-### <p align="center"> Hi there 👋</p>.
+### <p align="center"> Hi there 👋.</p>
 <p align="center"> 
 Hi, I’m Joel Pimentel a passionate self-taught Jr full-stack web developer  from Panama. 
 my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. 
