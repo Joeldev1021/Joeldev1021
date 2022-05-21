@@ -1,10 +1,11 @@
-### <p align="center"> Hi there 👋 </p>.
+### <p align="center"> Hi there 👋</p>.
 <p align="center"> 
 Hi, I’m Joel Pimentel a passionate self-taught Jr full-stack web developer  from Panama. 
 my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. 
-I like to be in constant learning
-- 🔭 I’m currently working on ConeXperto. 
-- 🌱 I’m currently learning Python 
+I like to be in constant learning.
+ - 🔭 I’m currently working on ConeXperto. 
+ - 🌱 I’m currently learning Python.
+ 
 </p>
 
 ## Social
@@ -37,7 +38,6 @@ I like to be in constant learning
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joeldev1021&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img aling="center" src="https://github-profile-trophy.vercel.app/?username=Joeldev1021"/>
-
 </p>
 
 
