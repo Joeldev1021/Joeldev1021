@@ -55,7 +55,7 @@ I like to be in constant learning.
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Joeldev1021&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joeldev1021&bg_color=121212&color=5094f9&line=5094f0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=Joeldev1021&bg_color=121212&color=5094f9&line=5094f0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Joeldev1021"/>
