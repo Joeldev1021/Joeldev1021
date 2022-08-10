@@ -1,6 +1,6 @@
 ### <p align="center"> Hi there 👋.</p>
 
-![readme](gojo-gif-3.gif)
+<img width="600px" src="gojo-gif-3.gif"/>
 
 Hi, I’m Joel Pimentel a passionate self-taught Jr full-stack web developer from Panama.
 my passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
@@ -20,9 +20,6 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 
 ### Lenguages and Tools
 
-<p align="center">
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
@@ -43,8 +40,6 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="25px" height="25px" alt="Material UI" />
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="Express" width="25px" height="25px" />
-
-</p>
 
 ### Stats
 
