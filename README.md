@@ -1,7 +1,7 @@
 ### <p align="center"> Hi there 👋.</p>
 
 <p align="center">
-<img  width="600px" src="gojo-gif-3.gif"/>
+<img  width="700px" src="gojo-gif-3.gif"/>
 </p>
 
 Hi, I’m Joel Pimentel a passionate self-taught Jr full-stack web developer from Panama.
