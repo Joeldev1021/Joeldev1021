@@ -13,8 +13,8 @@ I like to be in constant learning.
 - 🌱 I’m currently learning Python.
 - 💼 You can see my [portfolio]
 
-<a href="https://www.github.com/jd-apprentice" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+<a href="https://www.github.com/Joeldev1021" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Joeldev1021?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
 ### Social
 
